@@ -25,8 +25,8 @@ After thorough analysis and cleaning of the raw data, we developed a "Severity S
 ## Recommendations - Commerical Use
 
 The bar graphs below demonstrate: 
-- The Average Severity Score (height of each bar) for each commercial airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
-- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Boeing 737 and 777 for commercial use.
+- The Average Severity Score (height of each bar) for each **commercial** airplane make (first bar graph) and each model of that make (second bar graph) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
+- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. Based on these two variables we recommend investing in the Boeing 737 and 777 for commercial use.
 
 ![img](images/CommSevScore.png) 
 
@@ -35,8 +35,8 @@ The bar graphs below demonstrate:
 ## Recommendations - Private Use
 
 The bar graphs below demonstrate: 
-- The Average Severity Score (height of each bar) for each private airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
-- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Cessna 185 and 172 for private use.
+- The Average Severity Score (height of each bar) for each **private** airplane make (first bar graph) and each model of that make (second bar graph) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
+- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. Based on these two variables we recommend investing in the Cessna 185 and 172 for private use.
 
 ![img](images/PrivSevScore.png) 
 
