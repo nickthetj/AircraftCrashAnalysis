@@ -16,15 +16,23 @@ The data set we used for our analysis was pulled from the National Transportatio
 
 ## Key Statistics & Analysis
 
-After thorough analysis and cleaning of the raw data, we developed a "Severity Ratio" to evaluate the overall risk of each aircraft make and model. We arrived at the "Severity Ratio" by aggregating the different injury severity categories and assigning different weights to each category based on said injury severity.
+After thorough analysis and cleaning of the raw data, we developed a "Severity Score" to evaluate the overall risk of each aircraft make and model. We arrived at the "Severity Score" by aggregating the different injury severity categories and assigning different weights to each category based on said injury severity.
 
 ## Recommendations - Commerical Use
 
-The bar graphs below demonstrate both the Average Severity Score (height of each bar) for each commercial airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Boeing _____ for commercial use.
+The bar graphs below demonstrate: 
+- The Average Severity Score (height of each bar), for each commercial airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
+- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Boeing 737 & 777 for commercial use.
+
+![img] 
 
 ## Recommendations - Private Use
 
-The bar graphs below demonstrate both the Average Severity Score (height of each bar) for each private airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. The wider the bar the larger the sample of data points, the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Cessna _____ and Maule for commercial use.
+The bar graphs below demonstrate: 
+- The Average Severity Score (height of each bar) for each private airplane make (Bar Graph #1) and each model of that make (Bar Graph #2) as well as the corresponding sample size for each make and model, represented by the width of the bars. 
+- The wider the bar the larger the sample of data points, and the larger the sample of data the more significant the Average Severity Score becomes. It is then apparent based on these two variables that we recommend investing in the Cessna 185 & 172 and Maule for commercial use.
+
+![img]
 
 ## Conclusion
 
