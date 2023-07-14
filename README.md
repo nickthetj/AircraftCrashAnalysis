@@ -58,7 +58,7 @@ For private airplanes, we recommend the:
 
 - **Recommending specific engines for each model.** To get even more specific, we could repeat a similar analysis on engine types for each make and model that was recommended.
 - **Cost Analysis.** To make our recommendations more comprehensive, we could perform a cost analysis of the different models and engine types.
-- **Regional Analysis.** We would also recommend diving deeper into analyzing the lowest-risk regions for these specific airplane models.
+- **Regional Analysis.** We would also recommend analyzing the lowest-risk regions of the country for these specific airplane models.
 
 ## Repository Structure
 
